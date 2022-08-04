@@ -32,7 +32,7 @@ Complex Information and User Context
 --------------------------------------------------
 The engineers have a deep understanding of their domain. They are used to outsiders not understanding it. The first answer you get to your technical question might be way too superficial because they haven't yet gauged how far your understanding reaches.
 
-Know that it does not reflect on your ability to grasp complex technical information. It's a normal process. The conversation might might take a few steps to reach the answers you need. This is another one of the areas where you excel. You ask the right questions and hunt down the answers to make sure that your documentation is of value to all your users.
+Know that it does not reflect on your ability to grasp complex technical information. It's a normal process. The conversation might take a few steps to reach the answers you need. This is another one of the areas where you excel. You ask the right questions and hunt down the answers to make sure that your documentation is of value to all your users.
 
 You do not need to be able to write code or even understand the code itself. Your job is to understand how the resulting software works and how it can help your users solve their business challenges. 
 
